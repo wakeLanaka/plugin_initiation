@@ -1,2 +1,5 @@
 # plugin_initiation
-A  
+
+- Change doc/plugin.txt filename and its content
+- Change this README.md
+
